@@ -5,7 +5,7 @@
 
 - 👷 Currently pursuing B.Tech in Computer Science(2022-2026) from National Institute of Technology Raipur 
 
-- 🌱 I’m currently learning frontend/backend Development 
+- 🌱 I’m currently learning backend Development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
